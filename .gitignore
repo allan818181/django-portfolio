@@ -24,4 +24,14 @@ Thumbs.db
 *.log
 
 # VS Code
+.vscode/.history/
+.marscode/
 .vscode/
+.venv/
+*.pyc
+db.sqlite3
+tmp/
+backups/
+desktop.ini
+
+.history/
